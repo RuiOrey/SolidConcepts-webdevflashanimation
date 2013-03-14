@@ -1,0 +1,1 @@
+﻿/* Apple Style Preloader Main Class*//* Developed by Carlos Yanez */package classes{	import flash.display.MovieClip;		public class Main extends MovieClip	{		public function Main():void		{			preloader.start(info);		}	}}
